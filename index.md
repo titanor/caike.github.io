@@ -1,5 +1,5 @@
 # Portifólio do Caíkão (Caíke Augusto Azevedo de Sousa - turma 1B)
-<img src="https://i.imgur.com/9qqE2dD.jpg">
+
 
 ## Sobre mim:
 Sou amapense, fui criado no Amapá, me mudei algumas vezes procurando um ensino melhor e atualmente estou morando em Curitiba fazendo faculdade na PUCPR(Pontifícia Universidade Católica do Paraná).
